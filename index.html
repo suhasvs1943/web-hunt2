@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMDb Clone</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="nav-brand">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="IMDb Logo" class="logo">
+            </div>
+            <div class="search-bar">
+                <input type="text" placeholder="Search IMDb" id="search-input">
+                <button type="button"><i class="fas fa-search"></i></button>
+            </div>
+            <div class="nav-links">
+                <a href="#" class="watchlist"><i class="fas fa-plus"></i> Watchlist</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero-section">
+            <div class="featured-movie">
+                <h1>Featured Today</h1>
+                <div class="movie-showcase" id="featured-movies">
+                    <!-- Dynamic content will be added here -->
+                </div>
+            </div>
+        </section>
+
+        <section class="what-to-watch">
+            <h2>What to Watch</h2>
+            <div class="movie-grid" id="movie-grid">
+                <!-- Dynamic content will be added here -->
+            </div>
+        </section>
+
+        <section class="top-picks">
+            <h2>Top Picks</h2>
+            <div class="movie-carousel" id="top-picks">
+                <!-- Dynamic content will be added here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="social-links">
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+            <div class="footer-links">
+                <a href="#">Get the IMDb App</a>
+                <a href="#">Help</a>
+                <a href="#">Site Index</a>
+                <a href="#">IMDbPro</a>
+                <a href="#">Box Office Mojo</a>
+            </div>
+            <div class="footer-info">
+                <p>&copy; 2024 IMDb Clone. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Movie Detail Modal -->
+    <div id="movie-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-movie-content"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
