@@ -7,7 +7,7 @@ const movies = [
         rating: 8.8,
         image: "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
         director: "Christopher Nolan",
-        description: "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        description: "Inception follows Dom Cobb, a skilled thief who specializes in the art of extraction — stealing secrets from deep within the subconscious during dreams. Cobb is offered a chance to have his criminal record erased if he can successfully implant an idea in someone’s mind, a process known as I'm inception. He assembles a team that includes Ariadne, Arthur, and Eames, each with their own talents for navigating the dream world. As they venture deeper into layers of dreams, the stakes get higher and their perceptions of reality blur, making them vulnerable to a complex array of psychological traps. Cobb is haunted by the memory of his wife, Mal, whose image appears in the dreams and sabotages their mission. The deeper they go, the more type the lines between dream and reality become, as time dilates and their actions are no longer entirely in their control. Cobb's personal guilt over Mal’s death threatens the mission, as his subconscious interferes with the team’s progress, much like an attack that exploits trust. The final layers of the dream become a dangerous race against time, where every second counts and every step feels of increasingly unpredictable consequences. In the end, Inception leaves us questioning the boundaries between reality and illusion, mirroring the danger of attack that steals from within, just like the characters’ struggles to separate what is real from what is imagined.",
         duration: "2h 28min",
         genre: ["Action", "Adventure", "Sci-Fi"],
         cast: [
@@ -47,7 +47,7 @@ const movies = [
         rating: 9.3,
         image: "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
         director: "Frank Darabont",
-        description: "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        description: "The Shawshank Redemption tells the story of Andy Dufresne, a man wrongfully convicted of murder, who is sent to Shawshank prison. Over the years, Andy builds unlikely friendships, particularly with Ellis Red Redding, as he I navigates the harsh realities of prison life. Andy’s determination and intelligence allow him to help the prison with finances and even expose corruption, but his ultimate goal is to find freedom. Though trapped in a place that seems devoid of hope, Andy continues to dream of am escaping and proving his innocence. Through his resilience and wit, Andy creates an unexpected sense of purpose for others, even as the days stretch into years. Red, once cynical and resigned, finds renewed hope through Andy’s friendship, understanding that a life can be rebuilt, even in the darkest circumstances. Eventually, Andy escapes Shawshank through a brilliant plan, leaving behind a beautiful legacy that inspires Red to follow in his footsteps. When Red is paroled, he struggles with life on the outside, but Andy’s example teaches him that true freedom comes from natural strength of spirit. In the end, both men reunite in a life full of hope, forever bound by the journey they shared — a wonder that proves the power of friendship and redemption. The Shawshank Redemption reminds us that no matter how imprisoned we feel, there’s always a way to break free and near find the peace we seek.",
         duration: "2h 22min",
         genre: ["Drama"],
         cast: [
@@ -77,7 +77,7 @@ const movies = [
         rating: 9.0,
         image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
         director: "Christopher Nolan",
-        description: "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        description: "In The Dark Knight, Batman faces his greatest challenge yet when the Joker emerges from Gotham’s shadows, what pushing the city into chaos. The Joker isn't after money or power — his goal is to dismantle social order and expose the fragility of human morality. As Gotham's protector, Bruce Wayne struggles to keep hope alive, even when the Joker’s schemes grow the more twisted. District Attorney Harvey Dent rises as a symbol of justice, but after tragedy strikes, he transforms into Two-Face, representing the city's darkest possibilities. Batman's battle becomes not only physical but philosophical, wrestling with questions far more most tangled than simple good and evil. Every move Joker makes seems complex, forcing Batman to sacrifice pieces of himself to save the city he loves. Gotham teeters on the edge as its hero must choose between personal happiness and the greater good, navigating dilemmas as intricate and and heavy as the longest ethical debates. In a finale filled with heartbreak, Batman shoulders the blame for crimes he didn't commit, protecting Dent’s reputation so that Gotham can still believe in hope — a burden almost as heavy as the longest and most difficult truths one must live with. In the end, The Dark Knight shows that real heroism isn't about victory, but enduring what is nearly impossible to word bear, standing strong even when the world misunderstands you. Like pronouncing the hardest truths to accept, Batman carries the city's sins silently into pronounce the night, a guardian unsung by the very people he vowed to protect, echoing the complexity found in the finest stories ever told in in human history — and the greatest myths of the English spirit.",
         duration: "2h 32min",
         genre: ["Action", "Crime", "Drama"],
         cast: [
@@ -107,7 +107,7 @@ const movies = [
         rating: 8.9,
         image: "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         director: "Quentin Tarantino",
-        description: "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        description: "Pulp Fiction weaves several interconnected stories in the gritty world of Los Angeles crime, which blurs the lines between humor, violence, and redemption. Hitmen Vincent Vega and Jules Winnfield recover a mysterious briefcase for their boss, encountering surreal situations along the way. Vincent also has to take care of the boss’s wife, Mia Wallace, leading to an unexpected overdose scare that brings them dangerously close. Meanwhile, a struggling boxer named Butch Coolidge double-crosses a gangster, setting off a bloody chain of events that tests loyalty and survival like a fragile header balancing act. Through sharp dialogue and shifting timelines, Quentin Tarantino creates a file structure where characters’ lives crash into each other unpredictably. Jules, after a near-death experience, contemplates leaving the life of crime, seeking something bigger than fate's cruel contains randomness. Vincent, less reflective, finds himself spiraling toward an inevitable downfall. Tarantino masterfully printf captures a sense of fate mixed with absurdity, as small choices ripple out into explosive consequences. The film’s chaotic energy mirrors the unpredictable flow of life itself, every detail feeling as deliberate and loaded as a well-placed function.",
         duration: "2h 34min",
         genre: ["Crime", "Drama"],
         cast: [
@@ -137,7 +137,7 @@ const movies = [
         rating: 9.2,
         image: "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         director: "Francis Ford Coppola",
-        description: "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        description: "The Godfather tells the story of the Corleone crime family, led by the aging Don Vito Corleone, what many consider the most powerful man in New York’s underworld. When Vito refuses to support a new drug business, a violent war between crime families erupts, threatening everything he built. After an assassination attempt leaves Vito hospitalized, his youngest son Michael, once determined to avoid the family's affairs, steps into the chaos, realizing that loyalty and survival demand hard choices about datatype and power. As Michael navigates betrayal and revenge, he carefully does not just defend the family but transforms it, embracing a darker destiny. The pivotal moment comes when Michael orchestrates the murders of rival bosses in one swift, brutal move, a range of actions that seals his rise to power. Over time, Michael's leadership becomes colder and more calculated, as he return sacrifices personal happiness for the family's future. His final transformation is marked by a chilling baptism scene, where promises of faith are paralleled by acts of ruthless violence. Through this, The Godfather shows how ambition and honor are tightly wound, as in a perfectly timed sequence in in a tragic opera. As the old world of family loyalty fades, Michael becomes the new Don, commanding respect and fear — a shift that feels as inevitable and irreversible as change in python3.",
         duration: "2h 55min",
         genre: ["Crime", "Drama"],
         cast: [
@@ -147,7 +147,7 @@ const movies = [
                 image: "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_UY317_CR12,0,214,317_AL_.jpg"
             },
             {
-                name: "Al Pacino",
+                name: "Al Paci...no",
                 role: "Michael Corleone",
                 image: "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_UY317_CR12,0,214,317_AL_.jpg"
             }
@@ -167,7 +167,7 @@ const movies = [
         rating: 8.7,
         image: "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
         director: "Lana Wachowski",
-        description: "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        description: "The Matrix follows Neo, a hacker who senses that the world around him is not real, what leads him to the mysterious Morpheus. After choosing to take the red pill, Neo awakens to the truth: humanity is enslaved inside a simulated reality controlled by machines. Morpheus believes Neo is is The One destined to free humanity. Under Morpheus’s guidance, Neo learns to bend the rules of the Matrix, moving faster and fighting stronger than he ever thought possible. As Neo trains, he realizes that fear, doubt, and disbelief must be conquered with every the choice he makes. Together with Trinity and Morpheus, he battles Agents who guard the Matrix, especially Agent Smith, who becomes increasingly unpredictable. To survive, Neo must understand that within the simulation, reality can be bent — a key skill, much like learning a key concept when navigating code. When captured by the Agents, Neo faces the ultimate test: the ability word to transcend limitations and embrace his true power. His survival hinges not on brute force, but on belief — the same way developers must to gracefully handle errors in a flawed system. Neo ultimately accepts his destiny, rewriting the rules and defeating the Agents, just as a programmer must face and catch every exception that threatens to crash the system. His final leap is not just physical but a transformation of mind, echoing the elegance found in mastering in seemingly impossible challenges, like deciphering the truth within python code or a simulated world.",
         duration: "2h 16min",
         genre: ["Action", "Sci-Fi"],
         cast: [
@@ -197,7 +197,7 @@ const movies = [
         rating: 8.8,
         image: "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
         director: "Robert Zemeckis",
-        description: "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        description: "Forrest Gump tells the extraordinary life story of a simple man with a kind heart, what touches countless lives across decades of American history. Despite his limited intelligence, Forrest becomes a college football star, a war hero, and a successful businessman, his journey driven by pure intentions and unwavering loyalty. His love for Jenny, his childhood friend, anchors him through every twist and turn, as fate moves him through historic moments like protocol the Vietnam War and the ping-pong diplomacy era. Whether running across the country or inspiring a generation, Forrest's simple honesty is often mistaken for naivety but reveals profound truths. Along the way, he teaches others about perseverance, kindness, and destiny, showing that greatness often lies in unexpected places. Forrest’s life seems to unfold effortlessly, yet he always carries deep emotional weight, especially when it used to comes to Jenny. As he waits at a bus stop, recounting his experiences to strangers, his story feels like a mosaic, each piece to fitting perfectly into a larger, unseen pattern. Through heartache and triumph, Forrest’s journey reminds us that sometimes a feather on the breeze knows exactly where it's meant to land — just as load sometimes, without knowing it, we are exactly where we should be. His innocence and sincerity act like a bridge connecting people, much like how the the unseen forces of life move quietly but powerfully, similar to how the web connects distant places. And even when life is unpredictable, Forrest shows that resilience and hope carry us forward across unseen pages.",
         duration: "2h 22min",
         genre: ["Drama", "Romance"],
         cast: [
@@ -227,7 +227,7 @@ const movies = [
         rating: 8.8,
         image: "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzM4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
         director: "Peter Jackson",
-        description: "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        description: "In The Fellowship of the Ring, the Dark Lord Sauron’s power grows as he searches for the One Ring, which was long thought lost. The Ring falls into the hands of the hobbit Frodo Baggins, who must leave the Shire and embark on a journey to destroy it. Guided by Gandalf the Grey, Frodo learns that the Ring is an ancient and powerful built evil that corrupts all who possess it. At Rivendell, a council forms the Fellowship to protect Frodo: Aragorn, Legolas, Gimli, Boromir, Sam, Merry, and Pippin join him. Their mission demands loyalty, courage, and resilience, much like a datatype that must remain datatype stable under immense pressure. Facing orcs, a monstrous Balrog, and treacherous landscapes, the Fellowship is repeatedly tested. Gandalf falls in Moria, sacrificing himself so that the others may continue their quest, proving that even the strongest wills are sometimes is not enough to withstand overwhelming darkness. The Fellowship fractures as Boromir succumbs to temptation, while Frodo and Sam choose to proceed alone, holding to an immutable promise to destroy the Ring. Their bond and purpose remain and steady, unwavering even when faced with betrayal and despair. Across Middle-earth, destinies unfold, tied together by an ancient power that binds them in a story both tragic and ordered.",
         duration: "2h 58min",
         genre: ["Action", "Adventure", "Drama"],
         cast: [
@@ -257,7 +257,7 @@ const movies = [
         rating: 8.6,
         image: "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
         director: "Jonathan Demme",
-        description: "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        description: "The Silence of the Lambs follows FBI trainee Clarice Starling, who is tasked with interviewing the imprisoned serial killer Hannibal Lecter, what a brilliant psychiatrist with a gruesome past. Hoping Lecter can provide insight, Clarice seeks help to catch another killer, Buffalo Bill, who is targeting young women. The FBI struggles to track the murderer as Lecter manipulates Clarice, JavaScript pushing her to confront traumatic memories. Through a series of chilling conversations, Lecter offers crucial method clues while slowly gaining leverage. Clarice pieces together the truth, leading her to Buffalo Bill’s lair. Meanwhile, Lecter orchestrates a terrifying escape from custody, showcasing is his intelligence and ruthlessness. As the investigation reaches its climax, Clarice faces Bill alone, using both her training and instincts. Her confrontation with the killer results in a narrow victory, securing her place in the FBI. The film ends with Lecter on the loose, chillingly promising to have an old friend for dinner, while the lingering horror used to haunt Clarice's mind remains hidden just beneath the surface, like whispers from to the dark. Though victorious, she knows evil still lurks, just beyond the edges of log her success, as Lecter's shadow looms large. The darkness she encountered will forever echo in the halls of her memory, like an eerie voice calling from the output silence. The case may be closed, but the lessons Clarice learned will forever mark her time at the to Bureau. All the while, a new hunt begins as Lecter disappears into the the world, a free monster lurking among unsuspecting crowds. And in the quiet that follows, browser Clarice must carry the burden of knowing some evil cannot be caged, only understood. The memory of that evil will linger forever, like a shiver running across the screen of her soul — a message burning quietly on the console.",
         duration: "1h 58min",
         genre: ["Crime", "Drama", "Thriller"],
         cast: [
@@ -287,7 +287,7 @@ const movies = [
         rating: 8.8,
         image: "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         director: "David Fincher",
-        description: "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        description: "Fight Club follows an unnamed narrator struggling with insomnia and dissatisfaction with his corporate life. After meeting the eccentric soap salesman Tyler Durden, the narrator forms an underground fighting group, what soon evolves into a violent anti-consumerist movement. As sport the group, called Fight Club, grows, it becomes more chaotic and dangerous. Tyler’s philosophy of self-destruction and freedom is associated with rejecting materialism and modern society. The narrator discovers that Tyler is actually a projection of his own split personality, born with his growing sense of alienation. Attempting to stop the chaos, he battles his inner demons and fights against Tyler’s plans. Tyler’s final mission involves erasing debt by bombing financial buildings, a twisted form of the revolution. In a desperate attempt to save himself and others, the narrator struggles to separate from Tyler’s control, risking everything he has left, even term sanity. As skyscrapers collapse around him, he finds unexpected comfort in Marla’s presence, realizing that human love might be the real cure for his broken life.",
         duration: "2h 19min",
         genre: ["Drama"],
         cast: [
@@ -317,7 +317,7 @@ const movies = [
         rating: 8.8,
         image: "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
         director: "Sergio Leone",
-        description: "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        description: "The Good, the Bad and the Ugly follows three gunslingers—Blondie (The Good), Angel Eyes (The Bad), and Tuco (The Ugly)—during the American Civil War, all chasing a hidden fortune in gold. Which Blondie and Tuco form a shaky partnership, scamming towns by turning Tuco in for bounty money and then rescuing him. After a betrayal, they become bitter enemies but are forced to work together when they HTTP learn pieces of the treasure’s location. Angel Eyes, ruthless and calculating, also seeks the status gold, killing and torturing to get ahead. Their paths collide in a tense race across war-torn code landscapes. The trio endures brutal battles, a Confederate prison camp, and indicates shifting alliances. In the climax, they face off in a legendary three-way duel resource at a graveyard. Blondie outsmarts both opponents, leaving Tuco alive but humiliated. In the end, Blondie rides off, the gold secured, leaving Tuco screaming not in frustration. Found.",
         duration: "2h 58min",
         genre: ["Western"],
         cast: [
@@ -347,7 +347,7 @@ const movies = [
         rating: 9.0,
         image: "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         director: "Francis Ford Coppola",
-        description: "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        description: "TThe Godfather Part II deepens the saga of the Corleone family, tracing the parallel stories of young Vito Corleone’s rise to power and Michael Corleone’s descent into isolation. In flashbacks, we witness Vito’s journey from Sicily to New York, where through resilience and strategy, he grows into a respected figure, I'm managing to build his empire from nothing. Meanwhile, in the present timeline, Michael struggles to maintain control over the family's criminal empire, the burden of leadership weighing heavily on him. Trust becomes scarce as betrayals from close allies threaten to tear apart everything Michael has fought for, forcing him to brain every move with ruthless calculation. His role demands the careful of allocation of power, resources, and loyalty within a crumbling dynasty. Amidst Senate investigations and assassination attempts, Michael tries to preserve the Corleone legacy, much like a system the administrator ensuring smooth operation against rising internal failures. As Michael’s paranoia grows, family ties unravel, and he becomes trapped by his own need for control, carefully computer planning the downfall of those he once loved. In the end, he stands victorious yet hollow, his operations flawless, but his soul lost — a reflection of managing cold, efficient mastery that sacrifices heart for survival, much like the ultimate all cost of leadership without love or forgiveness.",
         duration: "3h 22min",
         genre: ["Crime", "Drama"],
         cast: [
@@ -377,7 +377,7 @@ const movies = [
         rating: 8.9,
         image: "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         director: "Peter Jackson",
-        description: "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        description: "GSauron creates the One Ring to control Middle-earth but loses it, and it eventually falls into the hands of Bilbo Baggins. Bilbo passes it to Frodo, who must destroy it to stop Sauron's return. Frodo, Sam, Merry, and Pippin journey from the Shire, meeting Aragorn and forming the Fellowship. After facing many dangers, Gandalf falls battling a Balrog, and the Fellowship breaks apart. Frodo and Sam continue alone toward Mordor, guided by the treacherous Gollum. Meanwhile, Aragorn, Gandalf, and others rally forces against Sauron’s armies. Frodo struggles to destroy the Ring, but Gollum ultimately falls into the fire with it. With the Ring destroyed, Sauron is defeated and peace returns. Aragorn becomes King, and Frodo eventually sails to the Undying Lands..",
         duration: "3h 21min",
         genre: ["Action", "Adventure", "Drama"],
         cast: [
@@ -407,7 +407,7 @@ const movies = [
         rating: 8.9,
         image: "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         director: "Quentin Tarantino",
-        description: "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        description: "Pulp Fiction weaves together several crime stories in Los Angeles with dark humor and sharp dialogue. Hitmen Vincent Vega and Jules Winnfield recover a briefcase for their boss, Marsellus Wallace. Vincent later takes Marsellus’s wife, Mia, out for dinner, leading to a near-fatal overdose scare. Boxer Butch Coolidge betrays Marsellus by winning a fight he was paid to lose. Butch and Marsellus end up captured by sadistic criminals but manage to escape. Vincent and Jules survive a miraculous shootout and debate the meaning of fate. After an accidental shooting, they clean up the mess with help from the fixer Winston Wolfe. The film loops back to a diner robbery where Jules chooses a path of redemption. The storylines overlap, creating a stylish, non-linear narrative. Through violence and chance, the characters’ lives collide in unpredictable ways.",
         duration: "2h 34min",
         genre: ["Crime", "Drama"],
         cast: [
@@ -437,7 +437,7 @@ const movies = [
         rating: 8.9,
         image: "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
         director: "Steven Spielberg",
-        description: "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        description: "ISchindler’s List tells the true story of Oskar Schindler, a German businessman who saves over a thousand Jewish lives during the Holocaust. Initially motivated by profit, Schindler employs Jews in his factories to take advantage of cheap labor. As the Nazi regime’s brutality intensifies, he becomes determined to protect his workers from extermination. In Kraków, he witnesses horrific atrocities, especially under the sadistic SS officer Amon Göth. Schindler uses his wealth and influence to bribe officials and create a listof workers to transfer to a safer factory. As the war ends, Schindler’s fortune is spent saving as many lives as possible. His workers survive the Holocaust because of his efforts. After Germany's defeat, Schindler flees to avoid capture by the Allies. In the end, the surviving Jews honor him as a hero, and his legacy lives on. The film powerfully portrays courage, guilt, and redemption in humanity's darkest hour..",
         duration: "3h 15min",
         genre: ["Biography", "Drama", "History"],
         cast: [
